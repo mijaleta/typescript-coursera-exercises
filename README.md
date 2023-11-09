@@ -1,36 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TypeScript Coursera Exercises</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
+# TypeScript Coursera Exercises
+#### Welcome to my TypeScript Coursera Exercises repository! 🚀 This collection houses a series of TypeScript exercises sourced from a credited Coursera course. As I progress through the course, I commit my solutions and learning here for anyone interested in exploring TypeScript or following along with the course.<br/>
+# Table of Contents
+#### 1. Introduction
+#### 2. Getting Started
+#### 3. Exercise Structure
+#### 4. Contributing
+#### 5. License
+# Introduction
+#### This repository documents my journey through the Coursera TypeScript course. Each exercise showcases my understanding and implementation of TypeScript concepts, serving as a testament to my learning progress. Whether you're a fellow learner, curious developer, or potential collaborator, feel free to explore, learn, and contribute.
 
-        h1, h2 {
-            color: #333;
-        }
-
-        p, li {
-            color: #666;
-        }
-
-        ol, ul {
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
-
-    <h1>TypeScript Coursera Exercises</h1>
-
-    <p>Welcome to my TypeScript Coursera Exercises repository! 🚀 This collection houses a series of TypeScript exercises sourced from a credited Coursera course. As I progress through the course, I commit my solutions and learning here for anyone interested in exploring TypeScript or following along with the course.</p>
-
-    <!-- ... (rest of the content) ... -->
-
-</body>
-</html>
+# Getting Started
+### I. Clone the Repository:
+##### git clone https://github.com/mijaleta/typescript-coursera-exercises.git
+cd typescript-coursera-exercises
