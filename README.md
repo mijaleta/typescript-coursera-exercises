@@ -13,3 +13,8 @@
 ### I. Clone the Repository:
 ##### git clone https://github.com/mijaleta/typescript-coursera-exercises.git
 cd typescript-coursera-exercises
+# License
+
+#### This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for your learning purposes.
+
+Happy coding! 🚀
